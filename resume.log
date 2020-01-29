@@ -1,0 +1,787 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=latex 2020.1.29)  29 JAN 2020 09:47
+entering extended mode
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx\HCode\def\HCod
+e##1{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g
+@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\doc
+umentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname te
+x4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{\HC
+ode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  resume.tex
+(resume.tex (resume.cls
+Document Class: resume 2010/07/10 v0.9 Resume class
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cl
+s"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo
+"
+File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip
+.sty"
+Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvopt
+ions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcm
+ds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvs
+etkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolb
+ox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count88
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen103
+\ar@mcellbox=\box27
+\extrarowheight=\dimen104
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\tex4ht
+.sty"
+version 2019-03-18-15:24
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks16
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\usepac
+kage.4ht"
+version 2019-12-19-14:27
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.
+sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.s
+ty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks17
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geomet
+ry.cfg"))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperr
+ef.sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdft
+excmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\inf
+warerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\
+kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdf
+escape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor
+.sty"
+Package: hycolor 2019/12/15 v1.9 Color options for hyperref/bookmark (HO)
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\xcolor-
+patch.sty"
+Package: xcolor-patch 2019/12/15 xcolor patch
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hopatc
+h.sty"
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\let
+ltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook
+.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+
+
+Package auxhook Warning: Cannot patch \document,
+(auxhook)                using \AtBeginDocument instead.
+
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc
+.def"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intca
+lc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etex
+cmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count94
+\pdfmajorversion=\count95
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count96
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen114
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset
+.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bi
+gintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count97
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+\Field@toks=\toks18
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbe
+gshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count98
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver: htex4ht.
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\htex4h
+t.def"
+File: htex4ht.def 2020/01/14 v7.00d Hyperref driver for TeX4ht
+Package hyperref Info: tex4ht is already loaded.
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks19
+\SOUL@lasttoken=\toks20
+\SOUL@cmds=\toks21
+\SOUL@buffer=\toks22
+\SOUL@token=\toks23
+\SOUL@spaceskip=\skip45
+\SOUL@ttwidth=\dimen117
+\SOUL@uldp=\dimen118
+\SOUL@ulht=\dimen119
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 9.
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\tex4ht
+.4ht"
+version 2018-12-30-09:29
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\tex4ht
+.sty"
+version 2019-03-18-15:24
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.
+sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
+lor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 147.
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dv
+ips.def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsn
+am.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+--- needs --- tex4ht resume ---
+\tmp:cnt=\count99
+\openout15 = `resume.tmp'.
+
+(resume.tmp)
+\tmp:dim=\skip46
+--------------------------------------
+--- Note --- for XML code, use the command line option `xml' or `xhtml'
+--------------------------------------
+ (resume.xref)
+\:refout=\write3
+\openout3 = `resume.xref'.
+
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: html
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+)
+\:tokwrite=\toks24
+\:tokpage=\toks25
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `resume.4ct'.
+
+\:tocout=\write4
+\openout4 = `resume.4tc'.
+
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\latex.
+4ht"
+version 2019-08-26-14:22
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\fontma
+th.4ht"
+version 2018-11-06-15:55
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\resume
+.4ht"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\articl
+e.4ht"
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\array.
+4ht"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\ifthen
+.4ht"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\geomet
+ry.4ht"
+version 2016-07-01-08:55
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\hyperr
+ef.4ht"
+version 2019-09-14-15:17
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\namere
+f.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcou
+nt.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestrin
+g\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count100
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\namere
+f.4ht"
+version 2019-12-23-13:36
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+LaTeX Info: Redefining \autoref on input line 95.
+\Hy@SectionHShift=\skip47
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\pd1enc
+.4ht"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\url.4h
+t"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+--------------------------------------
+--- Note --- for URL encoding within href use the command line option `url-enc'
+
+--------------------------------------
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\soul.4
+ht"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\color.
+4ht"
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\dvips.
+4ht"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\dvipsn
+am.4ht"
+version 2009-05-21-09:32
+
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsn
+am.def")
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+))
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
+4ht"
+version 2020-01-24-14:39
+)
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4-
+math.4ht"
+version 2019-12-16-15:21
+)) (resume.aux)
+\openout1 = `resume.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(28.90755pt, 722.70001pt, 43.36243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=722.70001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-80.36244pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring ON on input line 15.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
+--- file resume.css ---
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+8.
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+ [1
+
+] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 107.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 107.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 107.
+ [3] [4] [5] (resume.aux) ) 
+Here is how much of TeX's memory you used:
+ 9039 strings out of 492449
+ 127608 string characters out of 3118604
+ 349937 words of memory out of 3000000
+ 13199 multiletter control sequences out of 15000+200000
+ 8478 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,6n,36p,1329b,629s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on resume.dvi (5 pages, 30688 bytes).
