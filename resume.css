@@ -5,9 +5,8 @@
 .cmbx-12{ font-weight: bold;}
 .cmbx-10x-x-109{ font-weight: bold;}
 .cmbx-10x-x-109{ font-weight: bold;}
-.cmbxti-10x-x-109{ font-weight: bold; font-style: italic;}
 .cmsy-10x-x-109{}
-.cmtt-10x-x-109{font-family: monospace,monospace;}
+.cmbxti-10x-x-109{ font-weight: bold; font-style: italic;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}

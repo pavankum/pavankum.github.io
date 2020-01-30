@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=latex 2020.1.29)  29 JAN 2020 09:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=latex 2020.1.29)  30 JAN 2020 16:05
 entering extended mode
 **\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx\HCode\def\HCod
 e##1{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g
@@ -253,6 +253,27 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 9.
 
+("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multenum\multie
+num.sty"
+\usedx=\skip46
+\remainx=\skip47
+\usedxx=\skip48
+\remainxx=\skip49
+\usedxxx=\skip50
+\remainxxx=\skip51
+\usedxxxx=\skip52
+\remainxxxx=\skip53
+\remainxox=\skip54
+\remainxoxx=\skip55
+\remainxxxxx=\skip56
+\usedxxxxx=\skip57
+\c@multienumdepth=\count99
+\c@multienum=\count100
+\c@multienumi=\count101
+\c@multienumii=\count102
+\c@multienumiii=\count103
+\c@multienumiv=\count104
+)
 ("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\tex4ht
 .4ht"
 version 2018-12-30-09:29
@@ -287,11 +308,11 @@ am.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
 --- needs --- tex4ht resume ---
-\tmp:cnt=\count99
+\tmp:cnt=\count105
 \openout15 = `resume.tmp'.
 
 (resume.tmp)
-\tmp:dim=\skip46
+\tmp:dim=\skip58
 --------------------------------------
 --- Note --- for XML code, use the command line option `xml' or `xhtml'
 --------------------------------------
@@ -592,7 +613,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count100
+\c@section@level=\count106
 )
 ("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\namere
 f.4ht"
@@ -607,7 +628,7 @@ math.4ht"
 version 2019-12-16-15:21
 ))
 LaTeX Info: Redefining \autoref on input line 95.
-\Hy@SectionHShift=\skip47
+\Hy@SectionHShift=\skip59
 
 ("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/tex4ht\html4.
 4ht"
@@ -703,20 +724,20 @@ version 2019-12-16-15:21
 )) (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -726,15 +747,15 @@ LaTeX Font Info:    ... okay on input line 15.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(28.90755pt, 722.70001pt, 43.36243pt)
+* h-part:(L,W,R)=(28.90755pt, 556.4799pt, 28.90755pt)
+* v-part:(T,H,B)=(21.68121pt, 729.92635pt, 43.36243pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=542.02501pt
-* \textheight=722.70001pt
+* \textwidth=556.4799pt
+* \textheight=729.92635pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
-* \topmargin=-80.36244pt
+* \topmargin=-87.58878pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -753,35 +774,35 @@ LaTeX Font Info:    ... okay on input line 15.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring ON on input line 15.
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
-LaTeX Info: Redefining \nameref on input line 15.
+Package hyperref Info: Link coloring ON on input line 21.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
 --- file resume.css ---
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
-8.
+0.
 ("C:\Users\Maverick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
  [1
 
-] [2]
+] [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 107.
+(Font)              <10.95> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 107.
+(Font)              <8> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 107.
- [3] [4] [5] (resume.aux) ) 
+(Font)              <6> on input line 144.
+ [4] [5] [6] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 9039 strings out of 492449
- 127608 string characters out of 3118604
- 349937 words of memory out of 3000000
- 13199 multiletter control sequences out of 15000+200000
- 8478 words of font info for 30 fonts, out of 3000000 for 9000
+ 9113 strings out of 492449
+ 128697 string characters out of 3118604
+ 351954 words of memory out of 3000000
+ 13270 multiletter control sequences out of 15000+200000
+ 8310 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,36p,1329b,629s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,5n,36p,1329b,717s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on resume.dvi (5 pages, 30688 bytes).
+Output written on resume.dvi (6 pages, 32640 bytes).

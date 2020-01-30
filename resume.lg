@@ -1,4 +1,3 @@
-htfcss: cmtt font-family: monospace,monospace;
 htfcss: cmbxti  font-weight: bold; font-style: italic;
 htfcss: cmti  font-style: italic;
 htfcss: cmbx  font-weight: bold;
@@ -156,6 +155,5 @@ Css: span.textcaps{font-variant:small-caps}
 Font("cmr","10","10","109")
 Font("cmbx","12","12","100")
 Font("cmbx","10","10","109")
-Font("cmbxti","10","10","109")
 Font("cmsy","10","10","109")
-Font("cmtt","10","10","109")
+Font("cmbxti","10","10","109")
